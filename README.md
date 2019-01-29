@@ -21,6 +21,7 @@ A simple comparison of a few ML frameworks
 
 ----------------------------------------------------------------------------------------
 |=Framework=| KMeans             | Hierarchical | Spectral | DBSCAN | Mean-shift | GMM |
+|-----------|--------------------|--------------|----------|--------|------------|-----|
 | MLPack    | Yes, with KMeans++ |              |          | Yes    | Yes        | Yes |
 
 ## Classification
